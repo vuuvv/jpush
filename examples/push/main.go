@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Scorpio69t/jpush-api-golang-client"
+	"github.com/vuuvv/jpush"
 )
 
 func main() {
